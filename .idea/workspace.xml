@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2b46b3c-9088-4820-9b4e-82b60d50179e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar/SearchBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar/background_search_desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBar/background_search_mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Business/Business.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Business/Business.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" />
-    </list>
+    <list default="true" id="b2b46b3c-9088-4820-9b4e-82b60d50179e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,7 +49,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SearchBar/SearchBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="493">
               <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -140,7 +129,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1180" />
     <option name="y" value="35" />
-    <option name="width" value="2668" />
+    <option name="width" value="2670" />
     <option name="height" value="2140" />
   </component>
   <component name="ProjectView">
@@ -222,7 +211,7 @@
       <workItem from="1561250459540" duration="1736000" />
       <workItem from="1561252244836" duration="159000" />
       <workItem from="1561252440887" duration="1222000" />
-      <workItem from="1561319225450" duration="8467000" />
+      <workItem from="1561319225450" duration="8586000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1561322616375</created>
@@ -231,11 +220,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561322616375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Part one complete">
+      <created>1561327959745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561327959745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11584000" />
+    <option name="totallyTimeSpent" value="11703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="472" y="14" width="1067" height="856" extended-state="0" />
@@ -265,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="Part one complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part one complete" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -374,7 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SearchBar/SearchBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="493">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
