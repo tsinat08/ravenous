@@ -11,12 +11,13 @@ class App extends  React.Component{
         super(props);
         this.state ={businesses: []
         };
-        this.searchYelp.bind(this)
+       this.searchYelp= this.searchYelp.bind(this)
     }
     searchYelp(term, location, sortBy){
-        Yelp.Search(term, location, sortBy).then(businesses => {
-            this.setState({businesses: businesses})
-        });}
+        Yelp.searchYelp(term, location, sortBy).then((businesses )=> {
+            this.setState({businesses: businesses});
+        });
+    }
 
    render() {
      return(
